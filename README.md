@@ -1,1 +1,1 @@
-# Hypothesis_Testing
+# Statistical Measures and Hypothesis Testing
